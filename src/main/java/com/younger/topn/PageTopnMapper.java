@@ -1,4 +1,4 @@
-package com.younger;
+package com.younger.topn;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

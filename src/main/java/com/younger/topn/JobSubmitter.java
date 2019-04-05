@@ -1,4 +1,4 @@
-package com.younger;
+package com.younger.topn;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

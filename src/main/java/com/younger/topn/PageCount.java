@@ -1,4 +1,4 @@
-package com.younger;
+package com.younger.topn;
 
 public class PageCount implements Comparable<PageCount> {
     private String page;

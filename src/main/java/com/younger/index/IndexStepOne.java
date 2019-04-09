@@ -67,6 +67,4 @@ public class IndexStepOne {
         System.exit(b?0:-1);
 
     }
-
-
 }
